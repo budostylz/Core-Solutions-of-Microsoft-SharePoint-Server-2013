@@ -31,3 +31,7 @@ https://technet.microsoft.com/en-us/library/cc262366(v=office.15).aspx
 ##Multiple zones for host named site collections in SP2013
 
 https://blogs.msdn.microsoft.com/brian_farnhill/2014/07/07/multiple-zones-for-host-named-site-collections-in-sp2013/
+
+##Step by step Installation of SharePoint 2013 on Windows Server 2012 R2 part 4
+
+http://sharepoint-community.net/profiles/blogs/step-by-step-installation-of-sharepoint-2013-on-windows-server-2
