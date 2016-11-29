@@ -1,3 +1,4 @@
+
 # Core-Solutions-of-Microsoft-SharePoint-Server-2013
 
 ##Host-named site collection architecture and deployment (SharePoint 2013)
@@ -35,3 +36,9 @@ https://blogs.msdn.microsoft.com/brian_farnhill/2014/07/07/multiple-zones-for-ho
 ##Step by step Installation of SharePoint 2013 on Windows Server 2012 R2 part 4
 
 http://sharepoint-community.net/profiles/blogs/step-by-step-installation-of-sharepoint-2013-on-windows-server-2
+
+
+##Core-Solutions-of-Microsoft-SharePoint-Server-2013
+
+https://technet.microsoft.com/en-us/library/jj219650.aspx
+
