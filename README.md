@@ -42,3 +42,7 @@ http://sharepoint-community.net/profiles/blogs/step-by-step-installation-of-shar
 
 https://technet.microsoft.com/en-us/library/jj219650.aspx
 
+
+##Upgrade a site collection to SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/jj219650.aspx
