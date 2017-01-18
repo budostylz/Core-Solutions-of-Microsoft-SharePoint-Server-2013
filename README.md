@@ -1,4 +1,4 @@
-
+ 
 # Core-Solutions-of-Microsoft-SharePoint-Server-2013
 
 ##Host-named site collection architecture and deployment (SharePoint 2013)
@@ -46,3 +46,7 @@ https://technet.microsoft.com/en-us/library/jj219650.aspx
 ##Upgrade a site collection to SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/jj219650.aspx
+
+##Run site collection health checks in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/jj219720.aspx
