@@ -54,3 +54,7 @@ https://technet.microsoft.com/en-us/library/jj219720.aspx
 ##Repair-SPSite
 
 https://technet.microsoft.com/en-us/library/fp161269.aspx
+ 
+##Customized files found during site collection health check 
+
+https://support.office.com/en-ie/article/Customized-files-found-during-site-collection-health-check-d2621cc5-d9a3-45f9-aa1b-eca4fb462485
