@@ -58,3 +58,7 @@ https://technet.microsoft.com/en-us/library/fp161269.aspx
 ##Customized files found during site collection health check 
 
 https://support.office.com/en-ie/article/Customized-files-found-during-site-collection-health-check-d2621cc5-d9a3-45f9-aa1b-eca4fb462485
+
+##Deploy Office Web Apps Server
+
+https://technet.microsoft.com/en-us/library/JJ219455.aspx
