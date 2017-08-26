@@ -62,3 +62,7 @@ https://support.office.com/en-ie/article/Customized-files-found-during-site-coll
 ## Deploy Office Web Apps Server
 
 https://technet.microsoft.com/en-us/library/JJ219455.aspx
+ 
+## Configure alternate access mappings for SharePoint 2013
+
+http://nwkspsdev1:7455/sites/yohrpo
