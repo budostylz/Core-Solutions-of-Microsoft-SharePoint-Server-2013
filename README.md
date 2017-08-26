@@ -65,4 +65,4 @@ https://technet.microsoft.com/en-us/library/JJ219455.aspx
  
 ## Configure alternate access mappings for SharePoint 2013
 
-http://nwkspsdev1:7455/sites/yohrpo
+https://technet.microsoft.com/en-us/library/cc263208.aspx
