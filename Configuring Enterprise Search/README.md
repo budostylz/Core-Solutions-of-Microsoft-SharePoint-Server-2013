@@ -9,3 +9,11 @@ https://blogs.msdn.microsoft.com/russmax/2013/06/06/sharepoint-2013-search-archi
 ## Create and deploy custom entity extractors in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219480.aspx
+
+## Manage company name extraction in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj591605.aspx
+
+## Manage query rules in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj871676.aspx
