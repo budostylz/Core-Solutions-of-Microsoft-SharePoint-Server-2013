@@ -17,3 +17,12 @@ https://technet.microsoft.com/en-us/library/jj591605.aspx
 ## Manage query rules in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj871676.aspx
+
+## Customize search result types in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/dn135239.aspx
+
+## Search Engine Optimization for SharePoint 2013 Sites (Part I)
+
+https://blogs.perficient.com/microsoft/2012/09/search-engine-optimization-for-sharepoint-2013-sitespart-i/
+
