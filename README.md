@@ -66,3 +66,7 @@ https://technet.microsoft.com/en-us/library/JJ219455.aspx
 ## Configure alternate access mappings for SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/cc263208.aspx
+
+## Overview of sites and site collections in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/cc262410.aspx
