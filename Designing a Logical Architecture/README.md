@@ -6,6 +6,6 @@ https://technet.microsoft.com/en-us/library/ff829836.aspx
 
 https://technet.microsoft.com/en-us/library/dn659286.aspx
 
-##SharePoint Online is Multi-Tenant 
+## SharePoint Online is Multi-Tenant 
 
 https://products.office.com/en-us/sharepoint/sharepoint-online-collaboration-software
