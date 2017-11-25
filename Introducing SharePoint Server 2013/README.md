@@ -9,3 +9,5 @@ https://github.com/budostylz/Core-Solutions-of-Microsoft-SharePoint-Server-2013/
 ## Changes from SharePoint 2010 to SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/ff607742.aspx
+
+
