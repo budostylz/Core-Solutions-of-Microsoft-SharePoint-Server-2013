@@ -26,3 +26,7 @@ https://technet.microsoft.com/en-us/library/dn135239.aspx
 
 https://blogs.perficient.com/microsoft/2012/09/search-engine-optimization-for-sharepoint-2013-sitespart-i/
 
+## Search Engine Optimization in SharePoint 2013
+
+https://blog.mastykarz.nl/search-engine-optimization-sharepoint-2013/
+
