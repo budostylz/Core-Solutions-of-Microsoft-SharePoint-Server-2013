@@ -6,4 +6,8 @@ https://en.share-gate.com/blog/building-a-good-information-architecture-in-share
 
 https://blogs.msdn.microsoft.com/mvpawardprogram/2011/12/19/information-architecture-in-a-sharepoint-context-architecture-dinformation-dans-un-contexte-sharepoint/
 
+## Microsoft SharePoint 2013 Designing and Architecting Solutions: Gathering Requirements
+
+https://www.microsoftpressstore.com/articles/article.aspx?p=2224356
+
 
