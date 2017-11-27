@@ -30,3 +30,7 @@ https://blogs.perficient.com/microsoft/2012/09/search-engine-optimization-for-sh
 
 https://blog.mastykarz.nl/search-engine-optimization-sharepoint-2013/
 
+## View and configure usage analytics reports in SharePoint Server 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2014/01/23/view-and-configure-usage-analytics-reports-in-sharepoint-server-2013/
+
