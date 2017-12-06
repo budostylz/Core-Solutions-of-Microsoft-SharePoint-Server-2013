@@ -75,4 +75,12 @@ https://technet.microsoft.com/en-us/library/cc262410.aspx
 
 https://technet.microsoft.com/en-us/library/mt493264(v=office.16).aspx
 
+## Overview of co-authoring in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/ff718249.aspx
+
+## Co-authoring administration in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/ff718235.aspx
+
 
