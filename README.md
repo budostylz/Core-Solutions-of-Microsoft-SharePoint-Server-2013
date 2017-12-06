@@ -1,5 +1,8 @@
- 
 # Core-Solutions-of-Microsoft-SharePoint-Server-2013
+
+## MCSE: SharePoint
+
+https://www.microsoft.com/en-us/learning/mcse-sharepoint-certification.aspx
 
 ## Host-named site collection architecture and deployment (SharePoint 2013)
 
