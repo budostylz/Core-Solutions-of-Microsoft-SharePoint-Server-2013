@@ -86,4 +86,8 @@ https://technet.microsoft.com/en-us/library/ff718249.aspx
 
 https://technet.microsoft.com/en-us/library/ff718235.aspx
 
+## What’s new with Office Web Apps when used with SharePoint 2013?
+
+https://technet.microsoft.com/en-us/library/dn455087.aspx
+
 
