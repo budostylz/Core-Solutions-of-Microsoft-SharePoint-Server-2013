@@ -90,4 +90,8 @@ https://technet.microsoft.com/en-us/library/ff718235.aspx
 
 https://technet.microsoft.com/en-us/library/dn455087.aspx
 
+## Planning worksheets for SharePoint Server 2010
+
+https://technet.microsoft.com/en-us/library/cc262451(v=office.14).aspx
+
 
