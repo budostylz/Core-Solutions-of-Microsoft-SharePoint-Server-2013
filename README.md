@@ -4,6 +4,13 @@
 
 https://www.microsoft.com/en-us/learning/mcse-sharepoint-certification.aspx
 
+## For Demos
+
+ 1. AS - App Server
+ 2. DC - Domain Controller
+ 3. FE - Front End
+ 4. OWA - Office Web Apps Server
+
 ## Host-named site collection architecture and deployment (SharePoint 2013)
 
 https://technet.microsoft.com/en-us/library/cc424952.aspx
