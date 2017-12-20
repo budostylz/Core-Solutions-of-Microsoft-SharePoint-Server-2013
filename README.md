@@ -101,4 +101,8 @@ https://technet.microsoft.com/en-us/library/dn455087.aspx
 
 https://technet.microsoft.com/en-us/library/cc262451(v=office.14).aspx
 
+## Software boundaries and limits for SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/mt493258(v=office.16).aspx
+
 
