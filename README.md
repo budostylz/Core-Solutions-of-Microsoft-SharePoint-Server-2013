@@ -105,8 +105,6 @@ https://technet.microsoft.com/en-us/library/cc262451(v=office.14).aspx
 
 https://technet.microsoft.com/en-us/library/mt493258(v=office.16).aspx
 
-## Host-named site collection architecture and deployment (SharePoint 2013)
 
-https://technet.microsoft.com/en-us/library/cc424952.aspx
 
 
