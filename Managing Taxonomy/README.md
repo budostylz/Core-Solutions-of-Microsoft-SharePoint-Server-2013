@@ -18,3 +18,7 @@ https://blogs.msdn.microsoft.com/faceted_navigation_in_sharepoint_2013/2012/11/2
 
 https://technet.microsoft.com/en-us/library/jj679902.aspx
 
+## Top 10 features of SharePoint Term Store
+
+https://sharepointmaven.com/top-10-features-sharepoint-term-store/
+
