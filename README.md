@@ -105,6 +105,10 @@ https://technet.microsoft.com/en-us/library/cc262451(v=office.14).aspx
 
 https://technet.microsoft.com/en-us/library/mt493258(v=office.16).aspx
 
+## Understanding Sharepoint Managed Paths
+
+http://www.sharepointpitstop.com/2012/11/managedpath-explicit-wildcard-inclusions.html
+
 
 
 
