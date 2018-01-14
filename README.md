@@ -109,6 +109,10 @@ https://technet.microsoft.com/en-us/library/mt493258(v=office.16).aspx
 
 http://www.sharepointpitstop.com/2012/11/managedpath-explicit-wildcard-inclusions.html
 
+## Content Type Hub Migrations
+
+https://support.share-gate.com/hc/en-us/articles/115000645828-Content-Type-Hub
+
 
 
 
