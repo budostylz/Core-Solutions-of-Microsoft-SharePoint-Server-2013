@@ -117,6 +117,10 @@ https://support.share-gate.com/hc/en-us/articles/115000645828-Content-Type-Hub
 
 http://get-spscripts.com/2011/02/export-and-importcreate-site-content.html
 
+## How Do I Open SharePoint 2013 Document Library In Windows Explorer?
+
+http://nwkspsdev1:7455/yohcenter/client1/Presentations/Forms/AllItems.aspx
+
 
 
 
