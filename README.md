@@ -121,6 +121,9 @@ http://get-spscripts.com/2011/02/export-and-importcreate-site-content.html
 
 http://nwkspsdev1:7455/yohcenter/client1/Presentations/Forms/AllItems.aspx
 
+## Configure audit settings for a site collection
+
+https://support.office.com/en-us/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2
 
 
 
