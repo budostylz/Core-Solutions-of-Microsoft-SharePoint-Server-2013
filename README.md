@@ -113,6 +113,10 @@ http://www.sharepointpitstop.com/2012/11/managedpath-explicit-wildcard-inclusion
 
 https://support.share-gate.com/hc/en-us/articles/115000645828-Content-Type-Hub
 
+## Export and import/create site columns in SharePoint using PowerShell
+
+http://get-spscripts.com/2011/01/export-and-importcreate-site-columns-in.html
+
 ## Export and import/create site content types in SharePoint using PowerShell
 
 http://get-spscripts.com/2011/02/export-and-importcreate-site-content.html
