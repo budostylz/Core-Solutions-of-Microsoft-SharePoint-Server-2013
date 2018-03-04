@@ -133,5 +133,9 @@ https://support.office.com/en-us/article/Configure-audit-settings-for-a-site-col
 
 https://en.share-gate.com/blog/real-world-sharepoint-governance-plan
 
+## SharePoint to Office 365 Migration – Supported Scenarios
+
+https://en.share-gate.com/blog/migrate-to-office-365-sharepoint-supported-scenarios
+
 
 
