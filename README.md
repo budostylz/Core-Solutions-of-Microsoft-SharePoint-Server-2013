@@ -137,5 +137,9 @@ https://en.share-gate.com/blog/real-world-sharepoint-governance-plan
 
 https://en.share-gate.com/blog/migrate-to-office-365-sharepoint-supported-scenarios
 
+## SharePoint Content Database Migration
+
+https://en.share-gate.com/blog/sharepoint-content-database-migration-monitoring
+
 
 
