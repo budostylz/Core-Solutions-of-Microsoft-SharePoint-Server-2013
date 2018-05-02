@@ -145,5 +145,11 @@ https://en.share-gate.com/blog/sharepoint-content-database-migration-monitoring
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/set-up-an-on-premises-development-environment-for-sharepoint-add-ins
 
+## Host webs, add-in webs, and SharePoint components in SharePoint
 
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/host-webs-add-in-webs-and-sharepoint-components-in-sharepoint#IsolatedDomain
+
+## Important aspects of the SharePoint Add-in architecture and development landscape
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/important-aspects-of-the-sharepoint-add-in-architecture-and-development-landscap#AppPermissions
 
