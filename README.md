@@ -141,5 +141,9 @@ https://en.share-gate.com/blog/migrate-to-office-365-sharepoint-supported-scenar
 
 https://en.share-gate.com/blog/sharepoint-content-database-migration-monitoring
 
+## Set up an on-premises development environment for SharePoint Add-ins
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/set-up-an-on-premises-development-environment-for-sharepoint-add-ins
+
 
 
