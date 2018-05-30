@@ -34,3 +34,7 @@ https://blog.mastykarz.nl/search-engine-optimization-sharepoint-2013/
 
 https://blogs.technet.microsoft.com/tothesharepoint/2014/01/23/view-and-configure-usage-analytics-reports-in-sharepoint-server-2013/
 
+## SHAREPOINT 2013 – CREATE A SEARCH SERVICE APPLICATION AND SEARCH TOPOLOGY WITH POWERSHELL
+
+https://melcher.it/2012/07/sharepoint-2013-create-a-search-service-application-and-topology-with-powershell/
+
