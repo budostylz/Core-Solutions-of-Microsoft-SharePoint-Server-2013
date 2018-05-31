@@ -153,3 +153,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/host-webs-add-in-webs
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/important-aspects-of-the-sharepoint-add-in-architecture-and-development-landscap#AppPermissions
 
+## Overview of crawled and managed properties in SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/technical-reference/crawled-and-managed-properties-overview
+
