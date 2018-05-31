@@ -38,3 +38,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2014/01/23/view-and-configur
 
 https://melcher.it/2012/07/sharepoint-2013-create-a-search-service-application-and-topology-with-powershell/
 
+## Overview of crawled and managed properties in SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/technical-reference/crawled-and-managed-properties-overview
+
