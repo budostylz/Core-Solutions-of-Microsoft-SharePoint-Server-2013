@@ -157,3 +157,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/important-aspects-of-
 
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/crawled-and-managed-properties-overview
 
+## How to display recommendations and popular items on a SharePoint Server 2013 site
+
+https://blogs.technet.microsoft.com/tothesharepoint/2014/01/14/how-to-display-recommendations-and-popular-items-on-a-sharepoint-server-2013-site/
+
