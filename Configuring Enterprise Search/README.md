@@ -42,3 +42,7 @@ https://melcher.it/2012/07/sharepoint-2013-create-a-search-service-application-a
 
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/crawled-and-managed-properties-overview
 
+## Powershell script to create search Managed Properties from CSV
+
+https://gallery.technet.microsoft.com/office/Powershell-script-to-250c5aa6
+
